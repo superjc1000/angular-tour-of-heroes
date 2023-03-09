@@ -8,6 +8,6 @@ export const HEROES: Hero[] = [
   { id: 16, name: 'Cassaieta woman' },
   { id: 17, name: 'Er Toro' },
   { id: 18, name: 'Mesie fganses' },
-  { id: 19, name: 'Asporsaret girl' },
+  { id: 19, name: 'Asmorsaret girl' },
   { id: 20, name: 'El Aberroncho' }
 ];
